@@ -1,4 +1,5 @@
 # Quiz App
+Created by Moi Shadrack
 
 ## Description
 This is a single web application that generate questions according to the selected Category. This web application is built using react library.
