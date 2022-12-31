@@ -25,7 +25,7 @@ const SetupForm = () => {
           {/* category */}
 
           <div className='form-control'>
-            <label htmlFor='category'>category</label>
+            <label htmlFor='category'>Category</label>
             <select
               name='category'
               id='category'
@@ -33,9 +33,9 @@ const SetupForm = () => {
               value={quiz.category}
               onChange={handleChange}
             >
-              <option value='sports'>sports</option>
-              <option value='history'>history</option>
-              <option value='politics'>politics</option>
+              <option value='sports'>Sports</option>
+              <option value='history'>History</option>
+              <option value='politics'>Politics</option>
             </select>
           </div>
           {/* difficulty */}
