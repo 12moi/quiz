@@ -1,6 +1,7 @@
 # Quiz App
 
 ## Description
+This is a single web application that generate questions according to the selected Category. This web application is built using react library.
 
 ## Screenshot
 ![Alt text](/src/assets/images/home.png?raw=true "Home page")
