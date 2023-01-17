@@ -1,6 +1,6 @@
 import React from 'react'
 import { useGlobalContext } from './context'
-import Footer from './Footer'
+
 
 
 const Modal = () => {
@@ -21,7 +21,7 @@ const Modal = () => {
           play again
         </button>
       </div>
-      <Footer />
+      
     </div>
     
   )
