@@ -4,7 +4,7 @@ import { useGlobalContext } from './context'
 import SetupForm from './SetupForm'
 import Loading from './Loading'
 import Modal from './Modal'
-import Footer from './Footer'
+
 
 function App() {
   const {
@@ -58,7 +58,7 @@ function App() {
         <button className='next-question' onClick={nextQuestion}>
           next question
         </button>
-        <Footer />
+        
       </section>
       
     </main>
